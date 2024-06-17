@@ -15,6 +15,7 @@ again and again
 Sample website with plenty of files for demos and again.
 
 ## Copywright
+All rights reserved
 
 ## How to contribute
 
