@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work again. Adding a line for rebasing.
+This repository is for showing how Git and GitHub work again. Adding a line for rebasing. My feature.
 
 ## Intorduction
 
